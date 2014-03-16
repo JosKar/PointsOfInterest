@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmfilter 1.2S">
+	<bounds minlat="40.557" minlon="22.8769999" maxlat="40.695" maxlon="23.012"/>
+	<node id="208068598" lat="40.64035" lon="22.91677" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="208068599" lat="40.64088" lon="22.91511" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="208068603" lat="40.64168" lon="22.91555" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="447874306" lat="40.64632" lon="22.92015" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+	</node>
+	<node id="663256576" lat="40.60797" lon="22.95797" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+	</node>
+	<node id="891584668" lat="40.62061" lon="22.95271" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+	</node>
+	<node id="1201058296" lat="40.61086" lon="22.98727" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="addr:housenumber" v="242"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="Απάγγειο"/>
+		<tag k="name:en" v="Apággio"/>
+	</node>
+	<node id="1258961996" lat="40.63471" lon="22.94179" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="int_name" v="Apyramoria"/>
+		<tag k="name" v="Απυραμώρια"/>
+	</node>
+	<node id="1258962011" lat="40.63483" lon="22.94159" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="int_name" v="StoA"/>
+		<tag k="name" v="ΣτοΑ"/>
+	</node>
+	<node id="1258976298" lat="40.63283" lon="22.94178" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="layer" v="3"/>
+		<tag k="name" v="Δωμάτιο με Θεα"/>
+	</node>
+	<node id="1258982276" lat="40.6347" lon="22.95363" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="Βαβυλώνα"/>
+	</node>
+	<node id="1258982288" lat="40.63458" lon="22.95435" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="Πανδαιμόνιο"/>
+	</node>
+	<node id="1258982303" lat="40.63412" lon="22.95342" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="Μανιφέστο"/>
+	</node>
+	<node id="1264446436" lat="40.63829" lon="22.93858" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="addr:housenumber" v="19"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="gay:men" v="yes"/>
+		<tag k="name" v="enola"/>
+	</node>
+	<node id="1264446438" lat="40.63711" lon="22.94014" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+	</node>
+	<node id="1264446444" lat="40.63723" lon="22.94282" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="Κουρδιστό Πορτοκάλι"/>
+	</node>
+	<node id="1264446448" lat="40.6379" lon="22.93932" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="addr:housenumber" v="29"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="Σκνίπα"/>
+	</node>
+	<node id="1707739625" lat="40.6008" lon="22.94977" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="Queen"/>
+	</node>
+	<node id="1740594138" lat="40.65637" lon="22.9438" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594139" lat="40.65621" lon="22.94381" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594140" lat="40.65626" lon="22.94378" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594141" lat="40.65594" lon="22.9432" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594142" lat="40.65577" lon="22.94322" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594144" lat="40.65575" lon="22.9434" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594146" lat="40.6561" lon="22.94335" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594151" lat="40.65646" lon="22.94374" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594161" lat="40.65621" lon="22.94374" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594162" lat="40.65608" lon="22.9437" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594164" lat="40.65649" lon="22.94351" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594165" lat="40.65616" lon="22.94381" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594171" lat="40.65647" lon="22.94363" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594175" lat="40.65643" lon="22.94338" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594176" lat="40.65588" lon="22.94347" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594177" lat="40.65583" lon="22.94347" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594187" lat="40.65591" lon="22.94351" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594193" lat="40.65652" lon="22.94377" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594202" lat="40.65625" lon="22.94331" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594203" lat="40.65602" lon="22.94363" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594204" lat="40.65596" lon="22.94353" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594205" lat="40.65612" lon="22.94378" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594207" lat="40.65583" lon="22.94342" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594212" lat="40.65654" lon="22.94368" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594213" lat="40.6559" lon="22.94323" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594226" lat="40.65619" lon="22.9434" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594228" lat="40.65603" lon="22.94335" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594229" lat="40.65625" lon="22.94335" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1740594230" lat="40.65649" lon="22.94368" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1897268224" lat="40.64242" lon="22.91812" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1897268225" lat="40.64219" lon="22.91881" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1897268230" lat="40.64314" lon="22.9187" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1897268244" lat="40.64296" lon="22.91845" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1897268268" lat="40.64292" lon="22.91856" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1897268274" lat="40.64296" lon="22.91926" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1901974748" lat="40.65601" lon="22.94331" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1911221596" lat="40.66758" lon="22.89867" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="Captain Morgan"/>
+	</node>
+	<node id="1918391169" lat="40.66702" lon="22.89772" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+	</node>
+	<node id="1923771863" lat="40.64237" lon="22.91127" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923771884" lat="40.64114" lon="22.91721" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923771886" lat="40.64201" lon="22.91161" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923771899" lat="40.64077" lon="22.91926" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923771916" lat="40.6422" lon="22.91173" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923771921" lat="40.64217" lon="22.91115" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786819" lat="40.64113" lon="22.92111" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786820" lat="40.64195" lon="22.9192" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786822" lat="40.64123" lon="22.92157" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786823" lat="40.64114" lon="22.92108" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786824" lat="40.64093" lon="22.91859" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786840" lat="40.64155" lon="22.91902" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786846" lat="40.6409" lon="22.92131" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786850" lat="40.64157" lon="22.9189" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786854" lat="40.64092" lon="22.92132" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786858" lat="40.64179" lon="22.91975" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786859" lat="40.64087" lon="22.92141" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786860" lat="40.64133" lon="22.92117" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923786878" lat="40.64099" lon="22.92105" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="1923884014" lat="40.62741" lon="22.948" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="The Bar"/>
+	</node>
+	<node id="2510267138" lat="40.63512" lon="22.93735" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="addr:city" v="Δήμος Θεσσαλονίκης"/>
+		<tag k="addr:housename" v="Pussycat Bar"/>
+		<tag k="addr:housenumber" v="10"/>
+		<tag k="addr:postcode" v="54625 GRC"/>
+		<tag k="addr:street" v="Αιγύπτου"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="Pussycat Bar"/>
+		<tag k="name:en" v="Pussycat Bar"/>
+		<tag k="note" v="Tonight @ the Pussycat Alex on the decks George Papadopoulos in the bar and Sofia Osmidopoulou serving!Σαν τις δεύτερες δεν εχει!"/>
+		<tag k="website" v="https://www.facebook.com/pages/Pussycat/232908200093054"/>
+		<tag k="wheelchair" v="yes"/>
+	</node>
+	<node id="2665312611" lat="40.65815" lon="22.93253" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="2665312614" lat="40.65827" lon="22.93277" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="2665312635" lat="40.65832" lon="22.93266" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="2665312639" lat="40.6581" lon="22.93264" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1"/>
+	<node id="2665344735" lat="40.65886" lon="22.93037" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="amenity" v="bar"/>
+	</node>
+	<node id="2665344763" lat="40.65928" lon="22.93283" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="addr:housenumber" v="16"/>
+		<tag k="addr:postcode" v="56430"/>
+		<tag k="addr:street" v="Μεγάλου Αλεξάνδρου"/>
+		<tag k="amenity" v="bar"/>
+		<tag k="name" v="Bar 16"/>
+	</node>
+</osm>
